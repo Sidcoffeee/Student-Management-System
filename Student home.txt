@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head> <style>
+ {background-color:#a9a9a9;}
+  h1 {color: red;}
+</style> <h1><b>Student Management System<b/></h1>
+</head>
+<body style="background-color:#caebf2;">
+<img align="right" src="C:/Users/Sidharth/Pictures/school.jpg" width="500" height="400"/>
+ 
+<p>Welcome to your school  !</p>
+<h2>Please select desired option</h2>
+
+&ensp; &ensp; <button><p style="font-size:30px;">Faculty</p></button> 
+<button><p style="font-size:30px;">Attendance</p></button> 
+<button><p style="font-size:30px;">Student</button> 
+<button><p style="font-size:30px;">Courses</button>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+&ensp; &ensp; <button><p style="font-size:30px;">Update</button>
+<button><p style="font-size:30px;">Delete</button>
+<button><p style="font-size:30px;">Insert</button>
+<button><p style="font-size:30px;">&nbsp; View &nbsp;</button>
+<button><p style="font-size:30px;">Refresh</button>
+
+
+
+</body>
+</html>

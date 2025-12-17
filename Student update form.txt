@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:#caebf2;">
+<img align="right" src="C:/Users/Sidharth/Pictures/graduated.png" width="250" height="310"/>
+
+<h2>Update Student Data</h2>
+
+<form action="/action_page.php" method="POST">
+  <label for="fname">Name:</label><br>
+  <input type="text" id="fname" name="name" value=""><br>
+  <label for="lname">Reg No:</label><br>
+  <input type="number" id="lname" name="reg no" value=""><br>
+  <label for="lname">DOB:</label><br>
+  <input type="date" id="lname" name="gender" value=""><br>
+  <label for="lname">Gender:</label><br>
+  <input type="text" id="lname" name="age" value=""><br>
+  <label for="lname">Age:</label><br>
+  <input type="number" id="lname" name="address" value=""><br>
+  <label for="lname">Address:</label><br>
+  <input type="text" id="lname" name="mobile no" value=""><br>
+  <label for="lname">Mobile No:</label><br>
+  <input type="number" id="lname" name="lname" value=""><br>
+  <br>
+  
+  <input type="submit" value="Submit">
+</form> 
+
+
+
+</body>
+</html>

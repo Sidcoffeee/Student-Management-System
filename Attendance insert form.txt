@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:#caebf2;">
+
+<h1>Add Attendance</h1>
+<img align="right" src="C:/Users/Sidharth/Pictures/attendance.jpg" />
+ 
+<form action="/action_page.php" method="POST">
+  <label for="fname">Enter Student ID:</label><br>
+  <input type="text" id="fname" name="name" value=""><br>
+  <label for="lname">Course ID:</label><br>
+  <input type="text" id="lname" name="reg no" value=""><br>
+  <label for="lname">Attendance Status:</label><br>
+  <input type="text" id="lname" name="reg no" value=""><br>
+
+  <br>
+  <input type="submit" value="Submit">
+</form> 
+
+
+
+</body>
+</html>
